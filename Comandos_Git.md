@@ -99,7 +99,6 @@ git commit -m "Atualizando arquivo contato.html"
 ```
 Neste exemplo o arquivo "contato.html" foi adicionado, e para commitar ele basta apenas que eu execute o comando commit.
 
-
 ```
 git add .
 ```
